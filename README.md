@@ -1,0 +1,2 @@
+# Self-Configuring-CNN-BLSTM-Attention-Speech-Emotion-Classifier
+An autonomous Speech Emotion AI framework featuring a hybrid CNN-BLSTM-Attention network for spatial-temporal audio classification. Eliminates manual hyperparameter grid search by implementing an automated Swarm Intelligence tuning engine based on the Grey Wolf Optimizer (GWO). Includes a RAM-optimized 5x audio data augmentation pipeline
